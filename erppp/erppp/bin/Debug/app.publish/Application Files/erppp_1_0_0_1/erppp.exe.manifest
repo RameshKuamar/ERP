@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="erppp.exe" version="1.0.0.1" publicKeyToken="818a6669a9e16b60" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="erppp" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="erppp.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="erppp.exe" size="1636352">
+      <assemblyIdentity name="erppp" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>xIEgsOM5goJRktzwZY5lSQeK2ypYFsALvPypB/1rQO0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="erppp.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-K5VFQ34\Ramesh" issuerKeyHash="59a951dca9547dbf26eb7cd1a92c54c1e647f01c" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Y025ZYipzYc+7aBRhofAlIVxKP4G/T9cWW2PtTKxR5g=</DigestValue></Reference></SignedInfo><SignatureValue>cStKtQ1d9gW+bF8OsPMD1qkIdSKmRhf98c8yM6MBFD2NM3wiYpVoRCksZVNwoA1Han3Ett08P9rZNvWV+2Ndv3FSZsuk7RW2bIOX9D7GD2ns4VdfzzGa9tVn7mv9ty1bYD6WxmrGg8Wz2FV0tSieCYe55N2VMao4/jgHMQDaAqc=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>rnazJ26DMVNfxtlitlqbxURqg3gT0lEqPsmAadpk0cUqiH/4RzaznSFn8HUTCtYp8/DNKksiDH9YKDfxn/58jzTJlQNtXmcbNcLk6hHkKldnp2tD8qS41J3RUZip+y/6MUmTk7DZFCZehTU9Az1nYnb86oBBk9unzpt/zFOrPhE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="9847b132b58f6d595c3ffd06fe28718594c0878651a0ed3e87cda98865b94d63" Description="" Url=""><as:assemblyIdentity name="erppp.exe" version="1.0.0.1" publicKeyToken="818a6669a9e16b60" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-K5VFQ34\Ramesh</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>/SUHP+tA+qiHermrsCesI0Y6Gyii6aTYzXuuaGN2qI8=</DigestValue></Reference></SignedInfo><SignatureValue>SMwIgq0NdP6DjxfDGKpghRzyIlXlHc41d9T7nRgAuoxSlDqEegS8uoBBxB68NLScN+i6O8FUK+LWvWJYljvCROFpEclBFSX2KrlE+qkdiKuSPxg/246XcEDnGuXs9bqijGAzis/hflXxEcLwprum74jhvhAyPomvY4mcZLMrMzo=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>rnazJ26DMVNfxtlitlqbxURqg3gT0lEqPsmAadpk0cUqiH/4RzaznSFn8HUTCtYp8/DNKksiDH9YKDfxn/58jzTJlQNtXmcbNcLk6hHkKldnp2tD8qS41J3RUZip+y/6MUmTk7DZFCZehTU9Az1nYnb86oBBk9unzpt/zFOrPhE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB8TCCAVqgAwIBAgIQM1tAQwFGP4hIMq/57g0ZJTANBgkqhkiG9w0BAQsFADA3MTUwMwYDVQQDHiwARABFAFMASwBUAE8AUAAtAEsANQBWAEYAUQAzADQAXABSAGEAbQBlAHMAaDAeFw0xODA2MjQxODMxMDlaFw0xOTA2MjUwMDMxMDlaMDcxNTAzBgNVBAMeLABEAEUAUwBLAFQATwBQAC0ASwA1AFYARgBRADMANABcAFIAYQBtAGUAcwBoMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCudrMnboMxU1/G2WK2WpvFRGqDeBPSUSo+yYBp2mTRxSqIf/hHNrOdIWfwdRMK1inz8M0qSyIMf1goN/Gf/nyPNMmVA21eZxs1wuTqEeQqV2ena0PypLjUndFRmKn7L/oxSZOTsNkUJl6FNT0DPWdidvzqgEGT26fOm3/MU6s+EQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAJgUzXwlsEwhtJAMuKnkLXsuL1LDdKglC8Jc2NjG/ghPFbVo2ePKT8oDP9up8P+1VXk2cbpU4nf7d2JyjPsLPalBBd/Yc7SC+/l7Yu8SvMboOTBjZ7EYGHgmfwfeUG/hzIDRLOK2zXuDwp57chwHYVgvcSCzz8jKYh+WDKR1BbrX</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

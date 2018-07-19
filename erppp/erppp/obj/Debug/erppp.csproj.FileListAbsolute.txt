@@ -1,0 +1,45 @@
+c:\users\ramesh\desktop\Projects\erppp\erppp\bin\Debug\erppp.exe.config
+c:\users\ramesh\desktop\Projects\erppp\erppp\bin\Debug\erppp.exe
+c:\users\ramesh\desktop\Projects\erppp\erppp\bin\Debug\erppp.pdb
+c:\users\ramesh\desktop\Projects\erppp\erppp\obj\Debug\erppp.Form1.resources
+c:\users\ramesh\desktop\Projects\erppp\erppp\obj\Debug\erppp.Form2.resources
+c:\users\ramesh\desktop\Projects\erppp\erppp\obj\Debug\erppp.Form3.resources
+c:\users\ramesh\desktop\Projects\erppp\erppp\obj\Debug\erppp.Properties.Resources.resources
+c:\users\ramesh\desktop\Projects\erppp\erppp\obj\Debug\erppp.csproj.GenerateResource.Cache
+c:\users\ramesh\desktop\Projects\erppp\erppp\obj\Debug\erppp.exe
+c:\users\ramesh\desktop\Projects\erppp\erppp\obj\Debug\erppp.pdb
+c:\users\ramesh\desktop\Projects\erppp\erppp\obj\Debug\erppp.Form4.resources
+C:\Users\Ramesh\Desktop\Projects\erppp\erppp\obj\Debug\erppp.Form5.resources
+C:\Users\Ramesh\Desktop\Projects\erppp\erppp\obj\Debug\erppp.Form6.resources
+C:\Users\Ramesh\Desktop\Projects\erppp\erppp\obj\Debug\erppp.Form7.resources
+C:\Users\Ramesh\Desktop\Projects\erppp\erppp\obj\Debug\erppp.csprojResolveAssemblyReference.cache
+C:\Users\Ramesh\Desktop\Projects\erppp\erppp\obj\Debug\erppp.Form8.resources
+C:\Users\Ramesh\Desktop\Projects\erppp\erppp\obj\Debug\erppp.Form9.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\erppp\erppp\bin\Debug\erppp.exe.config
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\erppp\erppp\obj\Debug\erppp.exe
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\erppp\erppp\obj\Debug\erppp.pdb
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\erppp\erppp\bin\Debug\erppp.exe
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\erppp\erppp\bin\Debug\erppp.pdb
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\erppp\erppp\obj\Debug\erppp.csprojResolveAssemblyReference.cache
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\erppp\erppp\obj\Debug\erppp.Form1.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\erppp\erppp\obj\Debug\erppp.Form2.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\erppp\erppp\obj\Debug\erppp.Form3.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\erppp\erppp\obj\Debug\erppp.Form4.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\erppp\erppp\obj\Debug\erppp.Form5.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\erppp\erppp\obj\Debug\erppp.Form6.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\erppp\erppp\obj\Debug\erppp.Form8.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\erppp\erppp\obj\Debug\erppp.Form9.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\erppp\erppp\obj\Debug\erppp.Properties.Resources.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\erppp\erppp\obj\Debug\erppp.csproj.GenerateResource.Cache
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\erppp\erppp\obj\Debug\erppp.Form11.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\erppp\erppp\obj\Debug\erppp.invoice.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\erppp\erppp\obj\Debug\erppp.Form12.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\erppp\erppp\obj\Debug\erppp.Form13.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\erppp\erppp\obj\Debug\erppp.Form14.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\erppp\erppp\obj\Debug\erppp.Form15.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\erppp\erppp\obj\Debug\erppp.Form16.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\erppp\erppp\obj\Debug\erppp.Form7.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\erppp\erppp\bin\Debug\erppp.exe.manifest
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\erppp\erppp\bin\Debug\erppp.application
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\erppp\erppp\obj\Debug\erppp.exe.manifest
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\erppp\erppp\obj\Debug\erppp.application
